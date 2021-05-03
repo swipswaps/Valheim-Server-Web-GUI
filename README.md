@@ -28,7 +28,7 @@ This would not work without https://github.com/Nimdy/Dedicated_Valheim_Server_Sc
 ![alt text](https://i.imgur.com/6FBXr8L.jpg)<br>
 
 ## Install instructions
-These instrcutions assume you are working on Ubuntu server as outlined by Nimdy.
+These instructions assume you are working on Ubuntu server as outlined by Nimdy.
 
 1) Follow Nimdy's instuctions for setting up and configuring your Valheim server ( https://github.com/Nimdy/Dedicated_Valheim_Server_Script#readme )
 
